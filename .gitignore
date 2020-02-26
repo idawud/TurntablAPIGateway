@@ -33,3 +33,7 @@ out/
 
 dump.txt
 .envs/
+bin/
+.classpath/
+.project/
+.gitsecret/keys/random_seed
